@@ -2,7 +2,6 @@
 pragma solidity ^0.8.30;
 
 import { Script } from "forge-std/Script.sol";
-import { stdJson } from "forge-std/StdJson.sol";
 import { console } from "forge-std/console.sol";
 
 // Merkle tree input file generator script
